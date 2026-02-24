@@ -21,7 +21,7 @@ The following UML diagram illustrates the relationship between the core entities
 
 ## 🛠️ Technical Specifications
 
-### Data Model: `Order`
+## Data Model: `Order`
 | Attribute | Type | Description |
 | :--- | :--- | :--- |
 | `code` | `Integer` | Unique identifier for the order. |
