@@ -8,8 +8,9 @@ A Java-based billing module designed to calculate order totals and coordinate wi
 
 The following UML diagram illustrates the relationship between the core entities and services within this module:
 
-![Billing Service Class Diagram](./Screenshot%20from%202026-02-24%2011-23-05.png)
-
+<p align="center">
+  <img src="./Screenshot from 2026-02-24 11-23-05.png" alt="Billing Service Class Diagram" width="600">
+</p>
 ### Core Components
 
 * **Order (Entity):** A data object containing the unique `code`, the `basic` price, and the `discount` percentage.
@@ -37,4 +38,4 @@ $$Total = (Basic \times (1 - \frac{Discount}{100})) + Shipment$$
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Medeiroshenrique/billing-service](https://github.com/Medeiroshenrique/billing-service)
+   git clone https://github.com/Medeiroshenrique/billing-service
