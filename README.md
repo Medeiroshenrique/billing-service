@@ -8,7 +8,7 @@ A Java-based billing module designed to calculate order totals and coordinate wi
 
 The following UML diagram illustrates the relationship between the core entities and services within this module:
 
-![Billing Service Class Diagram](./Screenshot from 2026-02-24 11-23-05.png)
+![Billing Service Class Diagram](./[Screenshot from 2026-02-24 11-23-05.png](Screenshot%20from%202026-02-24%2011-23-05.png))
 
 ### Core Components
 
