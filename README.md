@@ -11,6 +11,9 @@ The following UML diagram illustrates the relationship between the core entities
 <p align="center">
   <img src="./Screenshot from 2026-02-24 11-23-05.png" alt="Billing Service Class Diagram" width="600">
 </p>
+
+---
+
 ## Core Components
 
 * **Order (Entity):** A data object containing the unique `code`, the `basic` price, and the `discount` percentage.
