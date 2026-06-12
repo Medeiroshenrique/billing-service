@@ -4,7 +4,7 @@ A Java-based billing module designed to calculate order totals and coordinate wi
 
 ---
 
-## 📊 System Design
+## System Design
 
 The following UML diagram illustrates the relationship between the core entities and services within this module:
 
@@ -22,7 +22,7 @@ The following UML diagram illustrates the relationship between the core entities
 
 ---
 
-## 🛠️ Technical Specifications
+## Technical Specifications
 
 ## Data Model: `Order`
 | Attribute | Type | Description |
@@ -37,7 +37,7 @@ $$Total = (Basic \times (1 - \frac{Discount}{100})) + Shipment$$
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repository:**
    ```bash
